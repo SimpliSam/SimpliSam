@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SimpliSam
+- 👀 I’m interested in mobile development, with a focus on iOS/Flutter dev
+- 🌱 I’m currently learning advance topics in iOS development
